@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "instructor@example.com",
+      "password": "hashedpassword123",
+      "role": "INSTRUCTOR",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "+254700000000",
+      "gender": "MALE",
+      "trained": true,
+      "organizationId": 1
+    }
+  ],
+  "organizations": [
+    {
+      "id": 1,
+      "name": "Example Organization",
+      "countryId": 1,
+      "createdAt": "2024-02-26",
+      "accountType": "ORGANIZATION",
+      "stripeCustomerId": "cus_xxx"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "Kenya",
+      "code": "KE"
+    }
+  ],
+  "counties": [
+    {
+      "id": 1,
+      "name": "Nairobi",
+      "latitude": "1.2921",
+      "longitude": "36.8219",
+      "countryId": 1
+    }
+  ],
+  "schools": [
+    {
+      "id": 1,
+      "countyId": 1,
+      "name": "Example School",
+      "createdAt": "2024-02-26",
+      "organizationId": 1
+    },
+    {
+      "countyId": 1,
+      "name": "New School",
+      "organizationId": 1,
+      "id": 2
+    }
+  ],
+  "camps": [
+    {
+      "id": 1,
+      "name": "Summer Learning Camp 2024",
+      "startDate": "2024-03-01",
+      "endDate": "2024-03-30",
+      "createdAt": "2024-02-26",
+      "curriculum": "LITERACY",
+      "organizationId": 1,
+      "schoolId": 1
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Jane",
+      "middleName": "",
+      "lastName": "Smith",
+      "age": 10,
+      "grade": 5,
+      "gender": "FEMALE",
+      "createdAt": "2024-02-26T10:00:00Z",
+      "availableForLearningCamp": true,
+      "campId": 1
+    },
+    {
+      "firstName": "New",
+      "middleName": "",
+      "lastName": "Student",
+      "age": 11,
+      "grade": 6,
+      "gender": "MALE",
+      "availableForLearningCamp": true,
+      "campId": 1,
+      "id": 2,
+      "createdAt": "2025-02-26T10:24:34.378Z"
+    }
+  ],
+  "campGroups": [
+    {
+      "id": 1,
+      "name": "Group A",
+      "createdAt": "2024-02-26",
+      "campId": 1,
+      "students": [
+        1
+      ]
+    }
+  ],
+  "auth": {
+    "login": {
+      "email": "instructor@example.com",
+      "password": "hashedpassword123",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+    }
+  }
+}

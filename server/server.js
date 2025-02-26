@@ -551,7 +551,7 @@ async function startServer() {
   const PORT = 4200;
   app.listen(PORT, () => {
     console.log(
-      `🚀 GraphQL server running at http://localhost:${PORT}${server.graphqlPath}`
+      `\x1b[32m\x1b[1m\u{1F680} GraphQL server running at http://localhost:${PORT}${server.graphqlPath}\x1b[0m`
     );
     // console.log(`REST API available at http://localhost:${PORT}/api`);
   });
