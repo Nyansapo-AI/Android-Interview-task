@@ -1,6 +1,10 @@
 # Mock GraphQL API for Kotlin Developers
 
-This README provides instructions for setting up and using a GraphQL server that mocks a typical backend API for technical interviews. This server is particularly designed for testing Kotlin developers' understanding of GraphQL integration.
+This README provides instructions for setting up and using a GraphQL server that mocks a typical backend API for technical interview. This server is particularly designed for testing Kotlin developers' understanding of GraphQL integration.
+
+## INTERVIEW TASK
+
+- Access the full task description [**here**](TASK.md).
 
 ## Introduction
 
