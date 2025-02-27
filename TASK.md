@@ -8,7 +8,7 @@
 
 ## Time Constraint
 
-You have **5 days** to complete this task from the time you receive it. Please manage your time effectively and focus on delivering a functional application that meets the core requirements.
+You have **1 week** to complete this task from the time you receive it. Please manage your time effectively and focus on delivering a functional application that meets the core requirements.
 
 ## Prerequisites
 
