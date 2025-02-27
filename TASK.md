@@ -96,25 +96,6 @@ The mock server provides endpoints for:
    - Write UI tests for at least one key feature
    - Ensure test coverage for critical functionality
 
-## Bonus Features (Optional)
-
-If you complete the core requirements and have time remaining, consider implementing some of these bonus features:
-
-1. **Search Functionality**
-
-   - Add search capabilities to the lists of schools, camps, and students
-
-2. **Data Filtering**
-
-   - Allow filtering of data based on various criteria
-
-3. **Data Visualization**
-
-   - Add simple charts or graphs to visualize data on the dashboard
-
-4. **Theme Support**
-   - Implement light and dark theme support
-
 ## Submission Guidelines
 
 1. Create a GitHub repository for your project
@@ -127,7 +108,7 @@ If you complete the core requirements and have time remaining, consider implemen
    - Challenges faced and how you overcame them
    - Any known issues or limitations
 4. Ensure your code is well-documented with comments where necessary
-5. Submit the GitHub repository URL when complete
+5. Submit the GitHub repository URL when complete BY FILLING THIS [FORM](https://forms.office.com/r/qMyTxJuiRv)
 
 ## Evaluation Criteria
 
@@ -143,9 +124,9 @@ Your submission will be evaluated based on:
 
 ## Notes
 
-- **Focus on delivering a working solution that meets the core requirements before adding bonus features**
+- **Focus on delivering a working solution that meets the core requirements**
 - **UI design is provided as a guideline; you may enhance or modify it as needed**
-- **Ask questions if anything in the requirements is unclear**
+- **Ask questions if anything in the requirements is unclear**. Email: steven@nyansapoai.net
 - **Document any assumptions you make during development**
 
 > Good luck! We look forward to seeing your solution.
