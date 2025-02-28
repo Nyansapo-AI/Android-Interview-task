@@ -3,7 +3,6 @@
 ## Overview
 
 > Welcome to the technical assessment for the Junior Kotlin Developer position. This task is designed to evaluate your Kotlin programming skills, understanding of Android development principles, and ability to work with APIs.
-
 > You will be building a simple Android application that interacts with a provided mock API server. The application will allow users to manage educational camps, schools, and students within an educational organization.
 
 ## Time Constraint
@@ -125,8 +124,7 @@ Your submission will be evaluated based on:
 ## Notes
 
 - **Focus on delivering a working solution that meets the core requirements**
-- **UI design is provided as a guideline; you may enhance or modify it as needed**
-- **Ask questions if anything in the requirements is unclear**. Email: steven@nyansapoai.net
+- **Ask questions if anything in the requirements is unclear**. Email: [steven@nyansapoai.net](steven@nyansapoai.net)
 - **Document any assumptions you make during development**
 
 > Good luck! We look forward to seeing your solution.
